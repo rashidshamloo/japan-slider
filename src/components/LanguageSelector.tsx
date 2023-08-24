@@ -35,7 +35,7 @@ const LanguageSelector = ({ locale, setLocale }: LanguageSelectorProps) => {
             : 'after:absolute after:-bottom-[6px] after:left-0 after:right-0 after:border-b-[1px] after:border-green-400')
         }
       >
-        <img src="/images/en.svg" alt="English" className="w-6" />
+        <img src="./images/en.svg" alt="English" className="w-6" />
       </button>
     </div>
   );
