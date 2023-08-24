@@ -76,7 +76,7 @@ function App() {
                 city={slide.city[locale]}
                 title={slide.title[locale]}
                 description={slide.description[locale]}
-                image={'/images/slides/' + slide.image}
+                image={'./images/slides/' + slide.image}
                 photographer={slide.photographer}
                 photoLink={slide.photoLink}
                 hideElement={githubLink}
