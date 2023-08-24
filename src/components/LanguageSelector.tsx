@@ -22,7 +22,7 @@ const LanguageSelector = ({ locale, setLocale }: LanguageSelectorProps) => {
             : 'after:absolute after:-bottom-[6px] after:left-0 after:right-0 after:border-b-[1px] after:border-green-400')
         }
       >
-        <img src="/images/ja.svg" alt="Japanese" className="w-6" />
+        <img src="./images/ja.svg" alt="Japanese" className="w-6" />
       </button>
       <button
         onClick={() => setLocale('en')}
