@@ -46,7 +46,7 @@ I started this project to learn more about sliders. I also wanted to integrate m
 
 - `swiper-mods` package: https://www.npmjs.com/package/swiper-mods
 
-For the content, I googled Japan's tourist attractions and selected the ones I found interesting, then used Bing Chat to generate the info in English and used Google Translate to translate it into Japanese.
+For the content, I googled Japan's tourist attractions and selected the ones I found interesting, then used Bing Chat to generate the info in English and Google Translate to translate it into Japanese.
 
 For the images, they are from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/), or [Flickr](https://www.flickr.com/). I cropped them in Photoshop, converted them to `webp` using [ffmpeg](https://ffmpeg.org/), and edited the metadata using [ExifTool](https://exiftool.org/).
 
